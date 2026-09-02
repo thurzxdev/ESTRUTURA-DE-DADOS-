@@ -48,11 +48,16 @@ As atividades podem utilizar diferentes linguagens e ferramentas, de acordo com 
 Principais tecnologias:
 
 C#
+
 Python
 Git
+
 GitHub
+
 Visual Studio Code
+
 Google Colab
+
 GDB Online
 
 📌 Observação
