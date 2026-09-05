@@ -1,4 +1,4 @@
-# PARTE 4 - Investigação de Array de Temperaturas
+# PARTE 4 HANDS ON 1:  Investigação de Array de Temperaturas
 
 ## 📚 Objetivo
 
