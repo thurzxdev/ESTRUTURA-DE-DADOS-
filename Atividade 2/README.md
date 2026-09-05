@@ -1,4 +1,4 @@
-# Comparação Experimental entre Bubble Sort e Quick Sort
+# PARTE 2 - Comparação Experimental entre Bubble Sort e Quick Sort
 
 ## 📚 Objetivo
 
@@ -62,9 +62,4 @@ O Quick Sort é recomendado para:
 
 Os testes demonstraram que o **Quick Sort** é significativamente mais eficiente do que o **Bubble Sort**, especialmente quando o volume de dados aumenta. Enquanto o Bubble Sort apresenta crescimento quadrático no número de operações, o Quick Sort mantém um comportamento muito mais escalável, tornando-se a escolha mais adequada para aplicações reais que manipulam grandes conjuntos de dados.
 
-## 👨‍💻 Tecnologias Utilizadas
 
-* Linguagem C++
-* Estruturas de Dados
-* Algoritmos de Ordenação
-* Análise de Complexidade Computacional
